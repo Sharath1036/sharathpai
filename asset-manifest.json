@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/sharathpai/static/css/main.c09b2849.css",
+    "main.js": "/sharathpai/static/js/main.cecbc472.js",
+    "static/js/787.1ed0c42c.chunk.js": "/sharathpai/static/js/787.1ed0c42c.chunk.js",
+    "static/media/wordpress.png": "/sharathpai/static/media/wordpress.709a24d0d9031a20e5bc.png",
+    "static/media/rpro.png": "/sharathpai/static/media/rpro.16e8eaa6f7ed06e31a94.png",
+    "static/media/bootstrap.png": "/sharathpai/static/media/bootstrap.cb1aa7ebab86974f5bb0.png",
+    "static/media/SU.png": "/sharathpai/static/media/SU.1f1efe6c840f6222766b.png",
+    "static/media/rangeela.png": "/sharathpai/static/media/rangeela.f970de51f74e950b5ba5.png",
+    "static/media/figma.png": "/sharathpai/static/media/figma.90eb21ce643748e3b320.png",
+    "static/media/cpp.png": "/sharathpai/static/media/cpp.64f637357bce0ccc8384.png",
+    "static/media/uiux.png": "/sharathpai/static/media/uiux.2cab666e4847b45a5090.png",
+    "static/media/movieTicket.png": "/sharathpai/static/media/movieTicket.f90bc4381f8a8b4fe9c3.png",
+    "static/media/man.webp": "/sharathpai/static/media/man.e07fc45b0f13b1ac28bb.webp",
+    "static/media/houseprice.png": "/sharathpai/static/media/houseprice.191a6d2d319d26e1ca72.png",
+    "static/media/portfolio.png": "/sharathpai/static/media/portfolio.1664ea1c221ec09b2b93.png",
+    "static/media/coding.webp": "/sharathpai/static/media/coding.5e353dd26f0201ced1b0.webp",
+    "static/media/react.png": "/sharathpai/static/media/react.214af24d7f042fd76977.png",
+    "static/media/Sharath_UIUX.pdf#toolbar=0&navpanes=0&scrollbar=0": "/sharathpai/static/media/Sharath_UIUX.0f7d6742649c7883cc46.pdf",
+    "static/media/library.png": "/sharathpai/static/media/library.1a5e60de562e85fd3dd1.png",
+    "static/media/wallpaper.jpg": "/sharathpai/static/media/wallpaper.283f90b53d7bf60317da.jpg",
+    "static/media/instagram.png": "/sharathpai/static/media/instagram.551b7bea3cd68d5a3828.png",
+    "static/media/php.png": "/sharathpai/static/media/php.1a69657666e045643f2c.png",
+    "static/media/Sharath.jpg": "/sharathpai/static/media/Sharath.1a79210bc8b87cbb51f3.jpg",
+    "static/media/calci.png": "/sharathpai/static/media/calci.a2fd14d71f070772071a.png",
+    "static/media/javascript.png": "/sharathpai/static/media/javascript.062825dbceed44567e91.png",
+    "static/media/mysql.png": "/sharathpai/static/media/mysql.17ec01314179e9a8ab58.png",
+    "index.html": "/sharathpai/index.html",
+    "main.c09b2849.css.map": "/sharathpai/static/css/main.c09b2849.css.map",
+    "main.cecbc472.js.map": "/sharathpai/static/js/main.cecbc472.js.map",
+    "787.1ed0c42c.chunk.js.map": "/sharathpai/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09b2849.css",
+    "static/js/main.cecbc472.js"
+  ]
+}
