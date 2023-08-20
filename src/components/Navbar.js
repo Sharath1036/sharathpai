@@ -5,6 +5,7 @@ export default function Navbar() {
   return (
     <div class="App">
     <nav class="navbar navbar-expand-md bg-custom navbar-dark fixed-top">
+    <a class="navbar-brand"><img src={require("../assets/sp.avif")} class="img-fluid" height="45" width="45" /></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
