@@ -12,7 +12,7 @@ function Home() {
       <div className="container">
         <div className="row">
           <div className="col-lg-7 d-block justify-content-center p-5">
-          <h3 class="large-header">Hi! I am <span>Sharath Pai</span></h3><br/><h4 class="large-header"><span class="typewriter"></span></h4><br/>
+          <h3 class="large-header">Hi! I am <span>Sharath Pai</span></h3><br/><h4 align="center" class="large-header"><span class="typewriter"></span></h4><br/>
           </div>
           <div className="col-lg-5 shrink">
             <img class="mx-auto d-block shrink-img" src={require("../assets/coding.webp")} />
