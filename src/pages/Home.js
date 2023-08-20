@@ -1,8 +1,8 @@
 import React from "react";
 import "../App.css";
+import "../typewrite.css";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-
 
 function Home() {
   return (
@@ -11,11 +11,8 @@ function Home() {
       <br/><br/><br/><br/><br/>
       <div className="container">
         <div className="row">
-          <div className="col-lg-7">
-            <h3 class="large-header">Hi! I am <span>Sharath Pai</span></h3> <br/>
-            <div class="card mb-4 bg4"><div class="card-body "><h3>Front End Developer</h3></div></div>
-            <div class="card mb-4 bg4"><div class="card-body "><h3>UI/UX Designer</h3></div></div>
-            <div class="card mb-4 bg4"><div class="card-body "><h3>ML Engineer</h3></div></div>
+          <div className="col-lg-7 d-block justify-content-center p-5">
+          <h3 class="large-header">Hi! I am <span>Sharath Pai</span></h3><br/><h4 class="large-header"><span class="typewriter"></span></h4><br/>
           </div>
           <div className="col-lg-5 shrink">
             <img class="mx-auto d-block shrink-img" src={require("../assets/coding.webp")} />

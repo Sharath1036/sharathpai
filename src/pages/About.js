@@ -36,8 +36,17 @@ export default function About() {
       <h1>TECHNICAL <span>SKILLS & TOOLS</span></h1>
       <br/>
       <div class="row">
+
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/html.png')} /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/bootstrap.png')} /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/c.png')} /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/cpp.png')} /></div>
         </div>
 
         <div class="col-lg-3">
@@ -45,15 +54,23 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/javascript.png')} /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/html.png')} /></div>
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/react.png')} /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/figma.png')} /></div>
         </div>
-    
+
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/bootstrap.png')} /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/git.png')} /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/javascript.png')} /></div>
+        </div>
+        
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/mysql.png')} /></div>
         </div>
 
         <div class="col-lg-3">
@@ -61,28 +78,22 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/mysql.png')} /></div>
-        </div>
-
-        <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/cpp.png')} /></div>
-        </div>
-    
-        <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/python.png')} /></div>
         </div>
 
         <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/react.png')} /></div>
+        </div>        
+
+        <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/rpro.png')} /></div>
         </div>
-
+        
         <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/wordpress.png')} /></div>
         </div>
 
-        <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/figma.png')} /></div>
-        </div>
+        
     </div>
     </div>
     <br/><br/><br/>

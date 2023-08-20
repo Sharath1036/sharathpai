@@ -1,8 +1,11 @@
 /* GENERAL STYLES */
-h1, h3, h5 {
+h1, h3, h4, h5 {
   text-align: center;
 }
 
+h4 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 
 .container-fluid, .container {
   overflow: hidden;
@@ -37,7 +40,7 @@ h1, h3, h5 {
 }
 
 .large-header {
-  font-size: 32px;
+  font-size: 42px;
 }
 
 span {
@@ -158,6 +161,7 @@ hr {
   border-left: 5px solid darkgreen;
 }
 
+
 /* Media Query for Mobile Devices */
 @media (max-width: 480px) {
   .col-lg-3 {
@@ -180,6 +184,7 @@ hr {
   .shrink-img, shrink {
     width: 360px;
   }
+
 }
 
 
@@ -210,6 +215,11 @@ hr {
 
   .shrink-img {
     width: 480px;
+  }
+
+  .jumbotron img {
+    object-fit: contain;
+    width: 100px;
   }
 }
 
