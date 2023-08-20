@@ -132,10 +132,6 @@ h5 {
   color: black;
 }
 
-.card {
-  background: rgb(255, 236, 236);
-}
-
 mark {
   background: yellow;
 }
@@ -151,7 +147,7 @@ hr {
 
 .bg4 {
   background: transparent;
-  box-shadow: 3px 3px 3px 3px grey;
+  box-shadow: 2px 2px 2px 2px grey;
 }
 
 .text-increase {
