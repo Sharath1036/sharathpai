@@ -25,7 +25,7 @@ h4 {
 }
 
 .ml-auto li {
-  font-size: 18px;
+  font-size: 21px;
   text-align: center;
 }
 
@@ -78,6 +78,7 @@ span {
 
 .img3 img {
   height: 300px;
+  object-fit: contain;
 }
 
 h5 {
@@ -250,6 +251,11 @@ hr {
   .shrink-img {
     width: 700px;
   }
+
+  .img3 img {
+    object-fit: contain;
+    height: 250px;
+  }
 }
 
 /* Media Query for Laptops and Desktops */
@@ -258,6 +264,7 @@ hr {
     width: 33%;
     display: inline-block;
     height: 700px;
+    object-fit: contain;
   }
 
   .bg1 {
