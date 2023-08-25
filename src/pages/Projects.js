@@ -31,7 +31,7 @@ export default function Projects() {
           <h5>SWIFT UNDERGRADS</h5>
           <p>I developed this website using React JS and Bootstrap for our startup to be used by students for getting desired study materials.</p>
           <div class="text-center">
-          <a href="https://swiftundergrads.in" class="btn btn-primary" role="button">DEMO</a>
+          <a href="https://www.swiftundergrads.in" class="btn btn-primary" role="button">DEMO</a>
           </div>
           </div>
         </div>
