@@ -74,6 +74,10 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/nodejs.png')} /></div>
+        </div>
+
+        <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/php.png')} /></div>
         </div>
 
@@ -97,7 +101,7 @@ export default function About() {
     </div>
     </div>
     <br/><br/><br/>
-      <Footer />
+    <div><Footer /></div>
     </div>
   );
 }

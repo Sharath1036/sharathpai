@@ -52,10 +52,6 @@ span {
 }
 
 /* ABOUT */
-.img2 img {
-  height: 200px;
-}
-
 .jumbotron {
   border-radius: 10px;
   box-shadow: 2px 2px 2px 2px grey;
@@ -64,7 +60,8 @@ span {
 }
 
 .img2 img {
-  height: 100px;
+  height: 90px;
+  object-fit: cover;
 }
 
 /* PROJECTS */
@@ -124,10 +121,6 @@ h5 {
 .icons{
   width: 30px;
   height: 30px;
-  position: absolute;
-  top: 50%;   
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 /* BLOGS */
@@ -255,6 +248,10 @@ hr {
   .img3 img {
     object-fit: contain;
     height: 250px;
+  }
+
+  .mgn {
+    margin-top: 500px;
   }
 }
 

@@ -17,7 +17,7 @@ export default function Projects() {
           <div class="jumbotron img3">
           <img class="mx-auto d-block" src={require("../assets/portfolio.png")} />
           <h5>PORTFOLIO WEBSITE</h5>
-          <p>I developed this portfolio website using ReactJS and Bootstrap to showcase my work as well as blogs.</p>
+          <p>I developed this portfolio website using ReactJS to showcase my recent project works as well as blog posts.</p>
           <div class="text-center">
           <a href="https://github.com/Sharath1036/sharathpai/" class="btn btn-primary" role="button">GITHUB</a>
           <a href="https://sharathpai.vercel.app/" class="btn btn-primary" role="button">DEMO</a>
@@ -29,12 +29,25 @@ export default function Projects() {
           <div class="jumbotron img3">
           <img class="mx-auto d-block" src={require("../assets/SU.png")} />
           <h5>SWIFT UNDERGRADS</h5>
-          <p>I developed this website using React JS and Bootstrap for our startup to be used by students for getting desired study materials.</p>
+          <p>I developed this website using React JS for our startup to be used by students for getting desired study materials.</p>
           <div class="text-center">
           <a href="https://www.swiftundergrads.in" class="btn btn-primary" role="button">DEMO</a>
           </div>
           </div>
         </div>
+
+        <div class="col-lg-4 prj">
+          <div class="jumbotron img3">
+          <img class="mx-auto d-block" src={require("../assets/photogallery.png")} />
+          <h5>PHOTO GALLERY</h5>
+          <p>Created a photo gallery using JavaScript which displays a preview image when hovered through an image among a set of images.</p>
+          <div class="text-center">
+          <a href="https://sharath1036.github.io/photogallery/" class="btn btn-primary" role="button">DEMO</a>
+          <a href="https://github.com/Sharath1036/photogallery" class="btn btn-primary" role="button">GITHUB</a>
+          </div>
+          </div>
+        </div>
+
 
         <div class="col-lg-4 prj">
           <div class="jumbotron img3">
@@ -104,7 +117,7 @@ export default function Projects() {
       </div>
       </div>
       <br/><br/><br/>
-      <Footer />
+      <div><Footer /></div>
     </div>
   );
 }
