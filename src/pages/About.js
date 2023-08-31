@@ -55,6 +55,10 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/expressjs.png')} /></div>
+        </div>
+
+        <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/html.png')} /></div>
         </div>
 

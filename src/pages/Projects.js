@@ -20,8 +20,8 @@ export default function Projects() {
           <h5>PORTFOLIO WEBSITE</h5>
           <p>I developed this portfolio website using ReactJS to showcase my recent project works as well as blog posts.</p>
           <div class="text-center">
-          <a href="https://github.com/Sharath1036/sharathpai/" class="btn btn-primary" role="button">GITHUB</a>
           <a href="https://sharathpai.vercel.app/" class="btn btn-primary" role="button">DEMO</a>
+          <a href="https://github.com/Sharath1036/sharathpai/" class="btn btn-primary" role="button">GITHUB</a>
           </div>
           </div>
         </div>
