@@ -1,95 +1,70 @@
-/* Typewriter effect 1 */
 @keyframes typing {
-	0%, 37% { content: ""; }
-	1%, 36% { content: "F"; }
-	2%, 35% { content: "Fr"; }
-	3%, 34% { content: "Fro"; }
-	4%, 33% { content: "Fron"; }
-	5%, 32% { content: "Front"; }
-	6%, 31% { content: "Front E"; }
-	7%, 30% { content: "Front En"; }
-	9%, 29% { content: "Front End"; }
-	10%, 28% { content: "Front End D"; }
-	11%, 27% { content: "Front End De"; }
-	12%, 26% { content: "Front End Dev"; }
-	13%, 25% { content: "Front End Deve"; }
-	14%, 24% { content: "Front End Devel"; }
-	15%, 23% { content: "Front End Develo"; }
-	16%, 22% { content: "Front End Develop"; }
-	17%, 21% { content: "Front End Develope"; }
-	18%, 20% { content: "Front End Developer"; }
+	0%, 39% { content: ""; }
+	1%, 38% { content: "M"; }
+	2%, 37% { content: "ME"; }
+	3%, 36% { content: "MER"; }
+	4%, 35% { content: "MERN"; }
+	5%, 34% { content: "MERN S"; }
+	6%, 33% { content: "MERN St"; }
+	7%, 32% { content: "MERN Sta"; }
+	9%, 31% { content: "MERN Stac"; }
+	10%, 30% { content: "MERN Stack"; }
+	11%, 29% { content: "MERN Stack D"; }
+	12%, 28% { content: "MERN Stack De"; }
+	13%, 27% { content: "MERN Stack Dev"; }
+	14%, 26% { content: "MERN Stack Deve"; }
+	15%, 25% { content: "MERN Stack Devel"; }
+	16%, 24% { content: "MERN Stack Develo"; }
+	17%, 23% { content: "MERN Stack Develop"; }
+	18%, 22% { content: "MERN Stack Develope"; }
+	19%, 21% { content: "MERN Stack Developer"; }
   
-	43%, 70% { content: ""; }
-	44%, 69% { content: "U"; }
-	45%, 68% { content: "UI"; }
-	46%, 67% { content: "UI/"; }
-	47%, 66% { content: "UI/U"; }
-	48%, 65% { content: "UI/UX"; }
-	49%, 64% { content: "UI/UX D"; }
-	50%, 63% { content: "UI/UX De"; }
-	51%, 62% { content: "UI/UX Des"; }
-	52%, 61% { content: "UI/UX Desi"; }
-	53%, 60% { content: "UI/UX Desig"; }
-	54%, 59% { content: "UI/UX Design"; }
-	55%, 58% { content: "UI/UX Designe"; }
-	56%, 57% { content: "UI/UX Designer"; }
+	43%, 71% { content: ""; }
+	44%, 70% { content: "U"; }
+	45%, 69% { content: "UI"; }
+	46%, 68% { content: "UI/"; }
+	47%, 67% { content: "UI/U"; }
+	48%, 66% { content: "UI/UX"; }
+	49%, 65% { content: "UI/UX D"; }
+	50%, 64% { content: "UI/UX De"; }
+	51%, 63% { content: "UI/UX Des"; }
+	52%, 62% { content: "UI/UX Desi"; }
+	53%, 61% { content: "UI/UX Desig"; }
+	54%, 60% { content: "UI/UX Design"; }
+	55%, 59% { content: "UI/UX Designe"; }
+	56%, 58% { content: "UI/UX Designer"; }
   
-	76%, 97% { content: ""; }
-	77%, 96% { content: "M"; }
-	78%, 95% { content: "ML"; }
-	79%, 94% { content: "ML E"; }
-	80%, 93% { content: "ML En"; }
-	81%, 92% { content: "ML Eng"; }
-	82%, 91% { content: "ML Engi"; }
-	83%, 90% { content: "ML Engin"; }
-	84%, 89% { content: "ML Engine"; }
-	85%, 88% { content: "ML Enginee"; }
-	86%, 87% { content: "ML Engineer"; }
+	75%, 97% { content: ""; }
+	76%, 96% { content: "M"; }
+	77%, 95% { content: "ML"; }
+	78%, 94% { content: "ML E"; }
+	79%, 93% { content: "ML En"; }
+	80%, 92% { content: "ML Eng"; }
+	81%, 91% { content: "ML Engi"; }
+	82%, 90% { content: "ML Engin"; }
+	83%, 89% { content: "ML Engine"; }
+	84%, 88% { content: "ML Enginee"; }
+	85%, 87% { content: "ML Engineer"; }
   
-  }
+	99% { content: ""; }
+}
   
-  @keyframes blink {
+@keyframes blink {
 	0%, 100% { opacity: 1; }
 	50% { opacity: 0; }
-  }
+}
   
-  .typewriter {
+.typewriter {
 	--caret: currentcolor;
-  }
+}
   
-  .typewriter::before {
+.typewriter::before {
 	content: "";
 	animation: typing 13.5s infinite;
-  }
+}
   
-  .typewriter::after {
+.typewriter::after {
 	content: "";
 	border-right: 1px solid var(--caret);
 	animation: blink 0.5s linear infinite;
-  }
-  
-  .typewriter.thick::after {
-	border-right: 1ch solid var(--caret);
-  }
-  
-  .typewriter.nocaret::after {
-	border-right: 0;
-  }
-  
-  
-  @media (prefers-reduced-motion) {
-	.typewriter::after {
-	  animation: none;
-	}
-	
-	@keyframes sequencePopup {
-	  0% { content: "Front End Developer"; } 43% { content: "UI/UX Designer"; } 76% { content: "ML Engineer"; }
-	}
-  
-	.typewriter::before {
-	  content: "Front End Developer";
-	  animation: sequencePopup 12s linear infinite;
-	}
-  }
-  
-  /**/
+}  
