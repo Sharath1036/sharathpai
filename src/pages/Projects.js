@@ -33,6 +33,19 @@ export default function Projects() {
           <p>I developed this website using React JS for our startup to be used by students for getting desired study materials.</p>
           <div class="text-center">
           <a href="https://www.swiftundergrads.in" class="btn btn-primary" role="button">DEMO</a>
+          <a href="https://github.com/Sharath1036/swiftundergrads/" class="btn btn-primary" role="button">GITHUB</a>
+          </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 prj">
+          <div class="jumbotron img3">
+          <img class="mx-auto d-block" src={require("../assets/blogpage.png")} />
+          <h5>BLOG PAGE</h5>
+          <p>I developed this blog website using Express JS and Handlebars which enables users to create their own blog.</p>
+          <div class="text-center">
+          <a href="https://sharathblogs.vercel.app" class="btn btn-primary" role="button">DEMO</a>
+          <a href="https://github.com/Sharath1036/blogpage" class="btn btn-primary" role="button">GITHUB</a>
           </div>
           </div>
         </div>
@@ -41,7 +54,7 @@ export default function Projects() {
           <div class="jumbotron img3">
           <img class="mx-auto d-block" src={require("../assets/photogallery.png")} />
           <h5>PHOTO GALLERY</h5>
-          <p>Created a photo gallery using JavaScript which displays a preview image when hovered through an image among a set of images.</p>
+          <p>I created a photo gallery using JavaScript which displays a preview image when hovered through an image among a set of images.</p>
           <div class="text-center">
           <a href="https://sharath1036.github.io/photogallery/" class="btn btn-primary" role="button">DEMO</a>
           <a href="https://github.com/Sharath1036/photogallery" class="btn btn-primary" role="button">GITHUB</a>
@@ -49,7 +62,7 @@ export default function Projects() {
           </div>
         </div>
 
-
+{/*
         <div class="col-lg-4 prj">
           <div class="jumbotron img3">
           <img class="mx-auto d-block" src={require("../assets/rangeela.png")} />
@@ -59,7 +72,7 @@ export default function Projects() {
           <a href="https://github.com/Sharath1036/resort-webpage" class="btn btn-primary" role="button">GITHUB</a>
           </div>
           </div>
-        </div>
+        </div> */}
 
         <div class="col-lg-4 prj">
           <div class="jumbotron img3">

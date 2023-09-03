@@ -15,7 +15,7 @@ export default function Resume() {
         </div>
         <br />
         {/*<embed class="mx-auto d-block" src={require("../assets/Sharath_UIUX.pdf#toolbar=0&navpanes=0&scrollbar=0")} type="application/pdf" width="70%" height="1010px" />*/}
-        <div class="resumeheight"><img class="mx-auto d-block" src={require("../assets/Sharath_Resume.jpg")} width="100%" /></div>
+        <div class="resumeheight"><img class="mx-auto d-block" src={require("../assets/Sharath_Resume.jpg")} width="80%" /></div>
         <br />
         <div class="col-lg-12 text-center">
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSesqyyJoPyK0yznHf0u55p3aCmTsAn-BNW2rzuTPO8Gop004g/viewform?usp=sharing" class="btn btn-primary" role="button" target="_blank">HIRE ME AS YOUR DEVELOPER</a>

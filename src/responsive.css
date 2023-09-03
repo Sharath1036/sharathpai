@@ -21,6 +21,9 @@
       width: 360px;
     }
   
+    .resumeheight img{
+      width: 100%;
+    }
   }
   
   /* Media Query for low resolution  Tablets, Ipads */
@@ -61,6 +64,10 @@
       height: 400px;
       object-fit: contain;
     }
+
+    .resumeheight img{
+      width: 100%;
+    }
   }
   
   /* Media Query for Tablets Ipads portrait mode, Mobiles on Desktop Site mode */
@@ -97,7 +104,7 @@
     }
 
     .resumeheight img{
-        height: 1300px;
+        width: 100%;
     }
   }
   
