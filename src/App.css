@@ -59,6 +59,13 @@ span {
   box-sizing: content-box;
 }
 
+.sharath img {
+  width: 80%;
+  height: 350px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
 .img2 img {
   height: 90px;
   object-fit: cover;
@@ -114,6 +121,12 @@ h5 {
   position: relative;
 }
 
+.socials1 a img{
+  width: 40px;
+  display: inline-block;
+  position: relative;
+}
+
 .text-center p {
   font-size: 22px;
 }
@@ -154,3 +167,16 @@ hr {
 .brdr {
   border-left: 5px solid darkgreen;
 }
+
+/* .container, .container-fluid{
+  animation: 2s slide-right;
+}
+
+@keyframes slide-right {
+  from {
+    margin-left: -100%;
+  }
+  to {
+    margin-left: 0%;
+  }
+} */
