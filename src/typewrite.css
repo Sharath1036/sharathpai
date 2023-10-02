@@ -1,52 +1,35 @@
 @keyframes typing {
-	0%, 39% { content: ""; }
-	1%, 38% { content: "M"; }
-	2%, 37% { content: "ME"; }
-	3%, 36% { content: "MER"; }
-	4%, 35% { content: "MERN"; }
-	5%, 34% { content: "MERN S"; }
-	6%, 33% { content: "MERN St"; }
-	7%, 32% { content: "MERN Sta"; }
-	9%, 31% { content: "MERN Stac"; }
-	10%, 30% { content: "MERN Stack"; }
-	11%, 29% { content: "MERN Stack D"; }
-	12%, 28% { content: "MERN Stack De"; }
-	13%, 27% { content: "MERN Stack Dev"; }
-	14%, 26% { content: "MERN Stack Deve"; }
-	15%, 25% { content: "MERN Stack Devel"; }
-	16%, 24% { content: "MERN Stack Develo"; }
-	17%, 23% { content: "MERN Stack Develop"; }
-	18%, 22% { content: "MERN Stack Develope"; }
-	19%, 21% { content: "MERN Stack Developer"; }
+	0%, 48% { content: ""; }
+	1%, 47% { content: "F"; }
+	2%, 46% { content: "Fu"; }
+	3%, 45% { content: "Ful"; }
+	4%, 44% { content: "Full"; }
+	5%, 43% { content: "Full S"; }
+	6%, 42% { content: "Full St"; }
+	7%, 41% { content: "Full Sta"; }
+	9%, 40% { content: "Full Stac"; }
+	10%, 38% { content: "Full Stack"; }
+	11%, 37% { content: "Full Stack D"; }
+	12%, 36% { content: "Full Stack De"; }
+	13%, 35% { content: "Full Stack Dev"; }
+	14%, 34% { content: "Full Stack Deve"; }
+	15%, 33% { content: "Full Stack Devel"; }
+	16%, 32% { content: "Full Stack Develo"; }
+	17%, 31% { content: "Full Stack Develop"; }
+	18%, 30% { content: "Full Stack Develope"; }
+	19%, 29% { content: "Full Stack Developer"; }
   
-	43%, 71% { content: ""; }
-	44%, 70% { content: "U"; }
-	45%, 69% { content: "UI"; }
-	46%, 68% { content: "UI/"; }
-	47%, 67% { content: "UI/U"; }
-	48%, 66% { content: "UI/UX"; }
-	49%, 65% { content: "UI/UX D"; }
-	50%, 64% { content: "UI/UX De"; }
-	51%, 63% { content: "UI/UX Des"; }
-	52%, 62% { content: "UI/UX Desi"; }
-	53%, 61% { content: "UI/UX Desig"; }
-	54%, 60% { content: "UI/UX Design"; }
-	55%, 59% { content: "UI/UX Designe"; }
-	56%, 58% { content: "UI/UX Designer"; }
-  
-	75%, 97% { content: ""; }
-	76%, 96% { content: "M"; }
-	77%, 95% { content: "ML"; }
-	78%, 94% { content: "ML E"; }
-	79%, 93% { content: "ML En"; }
-	80%, 92% { content: "ML Eng"; }
-	81%, 91% { content: "ML Engi"; }
-	82%, 90% { content: "ML Engin"; }
-	83%, 89% { content: "ML Engine"; }
-	84%, 88% { content: "ML Enginee"; }
-	85%, 87% { content: "ML Engineer"; }
-  
-	99% { content: ""; }
+	59%, 89% { content: ""; }
+	60%, 88% { content: "M"; }
+	61%, 87% { content: "ML"; }
+	62%, 86% { content: "ML E"; }
+	63%, 85% { content: "ML En"; }
+	64%, 84% { content: "ML Eng"; }
+	65%, 83% { content: "ML Engi"; }
+	66%, 82% { content: "ML Engin"; }
+	67%, 81% { content: "ML Engine"; }
+	68%, 80% { content: "ML Enginee"; }
+	69%, 79% { content: "ML Engineer"; }
 }
   
 @keyframes blink {

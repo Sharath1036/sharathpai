@@ -75,9 +75,9 @@ export default function About() {
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png' /></div>
         </div>
 
-        <div class="col-lg-3">
+        {/* <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg' /></div>
-        </div>
+        </div> */}
         
         <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg' /></div>

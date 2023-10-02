@@ -27,8 +27,9 @@ function Home() {
           <div className="col-lg-7 intro">
             <p>I started programming and designing for our startup and it eventually became a passion for me. </p>
             <p>I have a good command over tech stacks such as <span>HTML, CSS, React, Bootstrap, R, etc.</span></p>
-            <p>My areas of interest are <span>Designing</span>, building <span>Websites</span> as well as <span>Data Science</span> and I'm thinking of expanding my skillset in the domain of <span>Backend Development, App Development and Blockchain Development.</span></p>
-            <p>Currently I'm testing my <span>Backend Dev</span> skills by making websites using <span>Express JS.</span></p>
+            <p>My areas of interest are building <span>Websites</span> and <span>Data Science</span> and I'm also thinking of expanding my skillset in the domain of <span> App Development and Blockchain Development.</span></p>
+            {/* <p>Currently I'm testing my <span>Backend Dev</span> skills by making websites using <span>Express JS.</span></p> */}
+            <p>Currently I'm working on my <span>Machine Learning</span> skills and making Freelance <span>Websites.</span></p>
           </div>
           <div className="col-lg-5 img1">
             <img class="mx-auto d-block" src={require("../assets/man.webp")} />
