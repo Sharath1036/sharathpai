@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url("wallpaper.jpg");
+  background: url("./assets/sky.jpg");
   background-attachment: fixed; /*background will remain still inspite of scrolling*/
   background-size: cover; /*covers the entire area irrespective of img dimensions*/
   color: white;

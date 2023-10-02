@@ -18,7 +18,7 @@ export default function Projects() {
           <div class="jumbotron img3">
           <img class="mx-auto d-block" src={require("../assets/portfolio.png")} />
           <h5>PORTFOLIO WEBSITE</h5>
-          <p class="projectpara">I developed this portfolio website using ReactJS to showcase my recent project works as well as blog posts.</p>
+          <p class="projectpara">I developed this portfolio website using ReactJS to showcase my recently built projects as well as certain blogs.</p>
           <div class="text-center">
           <a href="https://sharathpai.vercel.app/" class="btn btn-primary" role="button">DEMO</a>
           <a href="https://github.com/Sharath1036/sharathpai/" class="btn btn-primary" role="button">GITHUB</a>
