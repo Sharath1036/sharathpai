@@ -1,35 +1,54 @@
 @keyframes typing {
-	0%, 48% { content: ""; }
-	1%, 47% { content: "F"; }
-	2%, 46% { content: "Fu"; }
-	3%, 45% { content: "Ful"; }
-	4%, 44% { content: "Full"; }
-	5%, 43% { content: "Full S"; }
-	6%, 42% { content: "Full St"; }
-	7%, 41% { content: "Full Sta"; }
-	9%, 40% { content: "Full Stac"; }
-	10%, 38% { content: "Full Stack"; }
-	11%, 37% { content: "Full Stack D"; }
-	12%, 36% { content: "Full Stack De"; }
-	13%, 35% { content: "Full Stack Dev"; }
-	14%, 34% { content: "Full Stack Deve"; }
-	15%, 33% { content: "Full Stack Devel"; }
-	16%, 32% { content: "Full Stack Develo"; }
-	17%, 31% { content: "Full Stack Develop"; }
-	18%, 30% { content: "Full Stack Develope"; }
-	19%, 29% { content: "Full Stack Developer"; }
+	0%, 26% { content: ""; }
+	1%, 25% { content: "W"; }
+	2%, 24% { content: "We"; }
+	3%, 23% { content: "Web"; }
+	4%, 22% { content: "Web D"; }
+	5%, 21% { content: "Web De"; }
+	6%, 20% { content: "Web Dev"; }
+	7%, 19% { content: "Web Deve"; }
+	8%, 18% { content: "Web Devel"; }
+	9%, 17% { content: "Web Develo"; }
+	10%, 16% { content: "Web Develop"; }
+	11%, 15% { content: "Web Develope"; }
+	12%, 14% { content: "Web Developer"; }
   
-	59%, 89% { content: ""; }
-	60%, 88% { content: "M"; }
-	61%, 87% { content: "ML"; }
-	62%, 86% { content: "ML E"; }
-	63%, 85% { content: "ML En"; }
-	64%, 84% { content: "ML Eng"; }
-	65%, 83% { content: "ML Engi"; }
-	66%, 82% { content: "ML Engin"; }
-	67%, 81% { content: "ML Engine"; }
-	68%, 80% { content: "ML Enginee"; }
-	69%, 79% { content: "ML Engineer"; }
+	28%, 51% { content: ""; }
+	29%, 50% { content: "D"; }
+	30%, 49% { content: "Da"; }
+	31%, 48% { content: "Dat"; }
+	32%, 47% { content: "Data"; }
+	33%, 46% { content: "Data A"; }
+	34%, 45% { content: "Data An"; }
+	35%, 44% { content: "Data Ana"; }
+	36%, 43% { content: "Data Anal"; }
+	37%, 42% { content: "Data Analy"; }
+	38%, 41% { content: "Data Analys"; }
+	39%, 40% { content: "Data Analyst"; }
+
+
+	53%, 97% { content: ""; }
+	54%, 96% { content: "O"; }
+	55%, 95% { content: "Op"; }
+	56%, 94% { content: "Ope"; }
+	57%, 93% { content: "Open"; }
+	58%, 92% { content: "Open S"; }
+	59%, 91% { content: "Open So"; }
+	60%, 90% { content: "Open Sou"; }
+	61%, 89% { content: "Open Sour"; }
+	62%, 88% { content: "Open Sourc"; }
+	63%, 87% { content: "Open Source"; }
+	64%, 86% { content: "Open Source C"; }
+	65%, 85% { content: "Open Source Co"; }
+	66%, 84% { content: "Open Source Con"; }
+	67%, 83% { content: "Open Source Cont"; }
+	68%, 82% { content: "Open Source Contr"; }
+	69%, 81% { content: "Open Source Contri"; }
+	70%, 80% { content: "Open Source Contrib"; }
+	71%, 79% { content: "Open Source Contribu"; }
+	72%, 78% { content: "Open Source Contribut"; }
+	73%, 77% { content: "Open Source Contributo"; }
+	74%, 76% { content: "Open Source Contributor"; }
 }
   
 @keyframes blink {
