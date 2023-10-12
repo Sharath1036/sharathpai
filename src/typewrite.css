@@ -1,56 +1,57 @@
 @keyframes typing {
-	0%, 26% { content: ""; }
-	1%, 25% { content: "W"; }
-	2%, 24% { content: "We"; }
-	3%, 23% { content: "Web"; }
-	4%, 22% { content: "Web D"; }
-	5%, 21% { content: "Web De"; }
-	6%, 20% { content: "Web Dev"; }
-	7%, 19% { content: "Web Deve"; }
-	8%, 18% { content: "Web Devel"; }
-	9%, 17% { content: "Web Develo"; }
-	10%, 16% { content: "Web Develop"; }
-	11%, 15% { content: "Web Develope"; }
-	12%, 14% { content: "Web Developer"; }
-  
-	28%, 51% { content: ""; }
-	29%, 50% { content: "D"; }
-	30%, 49% { content: "Da"; }
-	31%, 48% { content: "Dat"; }
-	32%, 47% { content: "Data"; }
-	33%, 46% { content: "Data A"; }
-	34%, 45% { content: "Data An"; }
-	35%, 44% { content: "Data Ana"; }
-	36%, 43% { content: "Data Anal"; }
-	37%, 42% { content: "Data Analy"; }
-	38%, 41% { content: "Data Analys"; }
-	39%, 40% { content: "Data Analyst"; }
+00.00%, 34.20% { content: ""; }
+00.95%, 33.25% { content: "F"; }
+01.90%, 32.30% { content: "Fu"; }
+02.85%, 31.35% { content: "Ful"; }
+03.80%, 30.40% { content: "Full"; }
+04.75%, 29.45% { content: "Full S"; }
+05.70%, 28.50% { content: "Full St"; }
+06.65%, 27.55% { content: "Full Sta"; }
+07.60%, 26.60% { content: "Full Stac"; }
+08.55%, 25.65% { content: "Full Stack"; }
+09.50%, 24.70% { content: "Full Stack D"; }
+10.45%, 23.75% { content: "Full Stack De"; }
+11.40%, 22.80% { content: "Full Stack Dev"; }
+12.35%, 21.85% { content: "Full Stack Deve"; }
+13.30%, 20.90% { content: "Full Stack Devel"; }
+14.25%, 19.95% { content: "Full Stack Develop"; }
+15.20%, 19.00% { content: "Full Stack Develope"; }
+16.15%, 18.05% { content: "Full Stack Developer"; }
 
+36.10%, 55.10% { content: ""; }
+37.05%, 54.15% { content: "M"; }
+38.00%, 53.20% { content: "ML"; }
+38.95%, 52.25% { content: "ML E"; }
+39.90%, 51.30% { content: "ML En"; }
+40.85%, 50.35% { content: "ML Eng"; }
+41.80%, 49.40% { content: "ML Engi"; }
+42.75%, 48.45% { content: "ML Engin"; }
+43.70%, 47.50% { content: "ML Engine"; }
+44.65%, 46.55% { content: "ML Engineer"; }
 
-	53%, 97% { content: ""; }
-	54%, 96% { content: "O"; }
-	55%, 95% { content: "Op"; }
-	56%, 94% { content: "Ope"; }
-	57%, 93% { content: "Open"; }
-	58%, 92% { content: "Open S"; }
-	59%, 91% { content: "Open So"; }
-	60%, 90% { content: "Open Sou"; }
-	61%, 89% { content: "Open Sour"; }
-	62%, 88% { content: "Open Sourc"; }
-	63%, 87% { content: "Open Source"; }
-	64%, 86% { content: "Open Source C"; }
-	65%, 85% { content: "Open Source Co"; }
-	66%, 84% { content: "Open Source Con"; }
-	67%, 83% { content: "Open Source Cont"; }
-	68%, 82% { content: "Open Source Contr"; }
-	69%, 81% { content: "Open Source Contri"; }
-	70%, 80% { content: "Open Source Contrib"; }
-	71%, 79% { content: "Open Source Contribu"; }
-	72%, 78% { content: "Open Source Contribut"; }
-	73%, 77% { content: "Open Source Contributo"; }
-	74%, 76% { content: "Open Source Contributor"; }
+57.95%, 97.85% { content: ""; }
+58.90%, 96.90% { content: "O"; }
+59.85%, 95.95% { content: "Op"; }
+60.80%, 95.00% { content: "Ope"; }
+61.75%, 94.05% { content: "Open"; }
+62.70%, 93.10% { content: "Open S"; }
+63.65%, 92.15% { content: "Open So"; }
+64.60%, 91.20% { content: "Open Sou"; }
+65.55%, 90.25% { content: "Open Sour"; }
+66.50%, 89.30% { content: "Open Source"; }
+67.45%, 88.35% { content: "Open Source C"; }
+68.40%, 87.40% { content: "Open Source Co"; }
+69.35%, 86.45% { content: "Open Source Con"; }
+70.30%, 85.50% { content: "Open Source Cont"; }
+71.25%, 84.55% { content: "Open Source Contr"; }
+72.20%, 83.60% { content: "Open Source Contri"; }
+73.15%, 82.65% { content: "Open Source Contrib"; }
+74.10%, 81.70% { content: "Open Source Contribu"; }
+75.05%, 80.75% { content: "Open Source Contribut"; }
+76.00%, 79.80% { content: "Open Source Contributo"; }
+76.95%, 78.85% { content: "Open Source Contributor"; }
 }
-  
+
 @keyframes blink {
 	0%, 100% { opacity: 1; }
 	50% { opacity: 0; }

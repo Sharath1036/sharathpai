@@ -78,9 +78,20 @@ export default function Projects() {
           <div class="jumbotron img3">
           <img class="mx-auto d-block" src={require("../assets/houseprice.png")} />
           <h5>HOUSE PRICE ANALYSIS</h5>
-          <p class="projectpara">This project gives the Regression analysis of the relation between house price and other independent variables using R.</p>
+          <p class="projectpara">In this ML project we determine whether house will be sold in 3 months or not (classification) and determine its relation with other variables (regression).</p>
           <div class="text-center">
-          <a href="https://github.com/Sharath1036/linear-regression-analysis-of-house-price" class="btn btn-primary" role="button">GITHUB</a>
+          <a href="https://github.com/Sharath1036/analysis-of-house-price" class="btn btn-primary" role="button">GITHUB</a>
+          </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 prj">
+          <div class="jumbotron img3">
+          <img class="mx-auto d-block" src={require("../assets/houseprice.png")} />
+          <h5>MOVIE ANALYSIS</h5>
+          <p class="projectpara">In this ML project we predict whether a movie will win an Oscar (classification) and estimate its box office collection (regression).</p>
+          <div class="text-center">
+          <a href="https://github.com/Sharath1036/movie-analysis" class="btn btn-primary" role="button">GITHUB</a>
           </div>
           </div>
         </div>

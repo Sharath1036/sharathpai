@@ -52,7 +52,7 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://snehasish.dev/techstack/express.svg' /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg' /></div>
         </div>
 
         <div class="col-lg-3">
