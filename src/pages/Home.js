@@ -25,7 +25,7 @@ function Home() {
       <div className="container">
         <div className="row">
           <div className="col-lg-7 intro">
-            <p>I started programming and designing for our startup and it eventually became a passion for me. </p>
+            <p>I started programming, designing and extracting data for our startup and it eventually became a passion for me. </p>
             <p>I have a good command over tech stacks such as <span>React, Express, R, etc.</span></p>
             <p>My areas of interest are building <span>Websites</span> and <span>Machine Learning</span> and I'm also thinking of expanding my skillset in the domain of <span> App Development and Blockchain Development.</span></p>
             {/* <p>Currently I'm testing my <span>Backend Dev</span> skills by making websites using <span>Express JS.</span></p> */}

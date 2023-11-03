@@ -52,7 +52,7 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg' /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://img.icons8.com/ios/50/ffffff/express-js.png' /></div>
         </div>
 
         <div class="col-lg-3">
@@ -73,6 +73,10 @@ export default function About() {
 
         <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png' /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://img.icons8.com/material-rounded/48/ff0000/keras.png' /></div>
         </div>
 
         {/* <div class="col-lg-3">
@@ -97,6 +101,10 @@ export default function About() {
 
         <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png' /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' /></div>
         </div>
         
 

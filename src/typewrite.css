@@ -1,22 +1,21 @@
 @keyframes typing {
 00.00%, 34.20% { content: ""; }
 00.95%, 33.25% { content: "F"; }
-01.90%, 32.30% { content: "Fu"; }
-02.85%, 31.35% { content: "Ful"; }
-03.80%, 30.40% { content: "Full"; }
-04.75%, 29.45% { content: "Full S"; }
-05.70%, 28.50% { content: "Full St"; }
-06.65%, 27.55% { content: "Full Sta"; }
-07.60%, 26.60% { content: "Full Stac"; }
-08.55%, 25.65% { content: "Full Stack"; }
-09.50%, 24.70% { content: "Full Stack D"; }
-10.45%, 23.75% { content: "Full Stack De"; }
-11.40%, 22.80% { content: "Full Stack Dev"; }
-12.35%, 21.85% { content: "Full Stack Deve"; }
-13.30%, 20.90% { content: "Full Stack Devel"; }
-14.25%, 19.95% { content: "Full Stack Develop"; }
-15.20%, 19.00% { content: "Full Stack Develope"; }
-16.15%, 18.05% { content: "Full Stack Developer"; }
+01.90%, 32.30% { content: "Fr"; }
+02.85%, 31.35% { content: "Fro"; }
+03.80%, 30.40% { content: "Fron"; }
+04.75%, 29.45% { content: "Front"; }
+05.70%, 28.50% { content: "Front E"; }
+06.65%, 27.55% { content: "Front En"; }
+07.60%, 26.60% { content: "Front End"; }
+08.55%, 25.65% { content: "Front End D"; }
+09.50%, 24.70% { content: "Front End De"; }
+10.45%, 23.75% { content: "Front End Dev"; }
+11.40%, 22.80% { content: "Front End Deve"; }
+12.35%, 21.85% { content: "Front End Devel"; }
+13.30%, 20.90% { content: "Front End Develop"; }
+14.25%, 19.95% { content: "Front End Develope"; }
+15.20%, 19.00% { content: "Front End Developer"; }
 
 36.10%, 55.10% { content: ""; }
 37.05%, 54.15% { content: "M"; }
