@@ -140,7 +140,7 @@ export default function Projects() {
           <img class="mx-auto d-block" src={require("../assets/ml.png")} />
           <h5 class="mt-4">MOVIE ANALYSIS</h5>
           <p><em class="mb-0">Tech Stacks: R</em></p>
-          <p class="projectpara">In this project we predict the box office collection (Regression) and Oscar prediction(Classification).</p>
+          <p class="projectpara">In this project we predict the box office collection (Regression) and predict whether a movie won an Oscar or not(Classification).</p>
           <div class="text-center">
           <a href="https://github.com/Sharath1036/movie-analysis" class="btn btn-primary" role="button">GITHUB</a>
           </div>
@@ -164,7 +164,7 @@ export default function Projects() {
           <img class="mx-auto d-block" src={require("../assets/ml.png")} />
           <h5 class="mt-4">EDUCATIONAL DECISIONS ML</h5>
           <p><em class="mb-0">Tech Stacks: R</em></p>
-          <p class="projectpara">Implemented a research paper for predicting various trends revolving around engineering admissions.</p>
+          <p class="projectpara">Implemented a research paper for predicting trends revolving around engineering admissions.</p>
           <div class="text-center">
           <a href="https://github.com/Sharath1036/predictive-ml-for-educational-decisions" class="btn btn-primary" role="button">GITHUB</a>
           </div>

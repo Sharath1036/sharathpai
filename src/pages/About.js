@@ -39,36 +39,23 @@ export default function About() {
       <div class="row">
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg' /></div>
-        </div>
-
-        <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://cdn.worldvectorlogo.com/logos/c-1.svg' /></div>
         </div>
-
-
+        
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg' /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/python/python-icon.svg' /></div>
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://img.icons8.com/ios/50/ffffff/express-js.png' /></div>
-        </div>
-
-        <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/figma/figma-icon.svg' /></div>
-        </div>
-
-        <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' /></div>
-        </div>
-
-        <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/handlebars.png')} /></div>
-        </div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg' /></div>
+        </div> 
 
         <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg' /></div>
         </div>
 
         <div class="col-lg-3">
@@ -76,15 +63,11 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://img.icons8.com/material-rounded/48/ff0000/keras.png' /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg' /></div>
         </div>
 
-        {/* <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg' /></div>
-        </div> */}
-        
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg' /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' /></div>
         </div>
 
         <div class="col-lg-3">
@@ -92,20 +75,42 @@ export default function About() {
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg' /></div>
-        </div>        
-
-        <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://img.icons8.com/ios/50/ffffff/express-js.png' /></div>
         </div>
 
         <div class="col-lg-3">
-          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png' /></div>
+          <div class="jumbotron img2"><img class="mx-auto d-block" src={require('../assets/handlebars.png')} /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg' /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://img.icons8.com/color/48/numpy.png' /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://img.icons8.com/color/48/pandas.png' /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png' /></div>
+        </div>
+
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png' /></div>
         </div>
 
         <div class="col-lg-3">
           <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' /></div>
         </div>
+        
+        <div class="col-lg-3">
+          <div class="jumbotron img2"><img class="mx-auto d-block" src='https://www.vectorlogo.zone/logos/figma/figma-icon.svg' /></div>
+        </div>        
+
+        
         
 
 
