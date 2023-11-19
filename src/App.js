@@ -4,7 +4,8 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Blogs from "./pages/Blogs"
-import ReactDoc from "./pages/ReactDoc";
+import ReactDoc from "./blogs/ReactDoc";
+import AIRoadmap from "./blogs/AIRoadmap";
 import Resume from "./pages/Resume";
 import ErrorPage from "./pages/ErrorPage";
 
@@ -17,6 +18,7 @@ return(
         <Route path="/projects" element={<Projects />} />
         <Route path="/blogs" element={<Blogs />} />
         <Route path="/react-routing" element={<ReactDoc />} />
+        <Route path="/artificial-intelligence-roadmap" element={<AIRoadmap />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>

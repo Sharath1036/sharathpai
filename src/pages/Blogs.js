@@ -3,7 +3,7 @@ import "../App.css";
 import "../responsive.css";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import ReactDoc from "../pages/ReactDoc";
+import ReactDoc from "../blogs/ReactDoc";
 
 export default function Blogs() {
   return (
@@ -25,7 +25,24 @@ export default function Blogs() {
             </div>
           </div>
         </div>
-    <br /><br />
+        <br/><br/>
+
+
+        <div class="card bg4">
+          <div class="row card-body">
+            <div class="col-lg-4 blog">
+              <img class="mx-auto d-block" src={require("../assets/AI.webp")}/>
+            </div>
+            <div class="col-lg-1"></div>
+            <div class="col-lg-7 center-text">
+              <h2>Artificial Intelligence Roadmap</h2>
+              <p class="text-increase">In this blog, I've shared the roadmap for learning the concepts of Artificial Intelligence along with resources...<a href="/artificial-intelligence-roadmap">read more</a></p>
+            </div>
+          </div>
+        </div>
+       <br /><br />
+
+
       </div>
       <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /><br />
       <Footer />
